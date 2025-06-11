@@ -14,6 +14,7 @@ Here is my [data source](https://www.kaggle.com/datasets/lainguyn123/student-per
 **Flowchart:**
 
 ![][image1]
+![image](https://github.com/user-attachments/assets/3a1df1ab-1cf5-4bbf-90a8-848e888577d7)
 
 **Data Description:**
 
