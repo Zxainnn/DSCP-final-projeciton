@@ -82,4 +82,5 @@ Based on the heatmap, we can observe that the family-related factors aren’t th
 The visualizations reveal that, overall, students from more advantaged families, such as high family income, high parental education level, and high family involvement, tend to achieve better academic performance. This suggests that the family conditions provide an initial advantage. However, this advantage is neither absolute nor permanent. In particular, the slope of the regression lines for students from less advantaged backgrounds indicates that additional study hours can significantly improve performance.
 In conclusion, we believe that students from well-off families may begin with a head start. Nonetheless, the advantage is not absolute or significant. If the students from disadvantaged families study hard, the advantage can be reduced—or even overcome.
 
-Jupyter Notebook：[[`Final Project.ipynb`](./Final%20Project%20.ipynb)](https://github.com/Zxainnn/DSCP-final-projection/blob/main/Final%20Project%20.ipynb)
+Jupyter Notebook：[`Final Project.ipynb`](./Final%20Project%20.ipynb)
+[這是網頁版的 Jupyter Notebook](https://github.com/Zxainnn/DSCP-final-projection/blob/main/Final%20Project%20.ipynb)
